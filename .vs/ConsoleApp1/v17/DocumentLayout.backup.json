@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|c:\\users\\wiy98\\source\\repos\\consoleapp1\\repositories\\inmemoryvehiclerepository..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|solutionrelative:repositories\\inmemoryvehiclerepository..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|c:\\users\\wiy98\\source\\repos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|c:\\users\\wiy98\\source\\repos\\consoleapp1\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|solutionrelative:services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|c:\\users\\wiy98\\source\\repos\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|c:\\users\\wiy98\\source\\repos\\consoleapp1\\decorators\\defaultpropertiesdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|solutionrelative:decorators\\defaultpropertiesdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|c:\\users\\wiy98\\source\\repos\\consoleapp1\\decorators\\vehicledecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|solutionrelative:decorators\\vehicledecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|c:\\users\\wiy98\\source\\repos\\consoleapp1\\factories\\mustangfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|solutionrelative:factories\\mustangfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|c:\\users\\wiy98\\source\\repos\\consoleapp1\\factories\\escapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|solutionrelative:factories\\escapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|c:\\users\\wiy98\\source\\repos\\consoleapp1\\factories\\explorerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|solutionrelative:factories\\explorerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|c:\\users\\wiy98\\source\\repos\\consoleapp1\\factories\\ivehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|solutionrelative:factories\\ivehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|c:\\users\\wiy98\\source\\repos\\consoleapp1\\models\\escape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|solutionrelative:models\\escape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|c:\\users\\wiy98\\source\\repos\\consoleapp1\\models\\mustang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|solutionrelative:models\\mustang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|c:\\users\\wiy98\\source\\repos\\consoleapp1\\models\\explorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|solutionrelative:models\\explorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|c:\\users\\wiy98\\source\\repos\\consoleapp1\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF463A3-26D3-462A-8FBB-04A9BC763A8C}|ConsoleApp1.csproj|solutionrelative:models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Services\\VehicleService.cs",
+              "RelativeToolTip": "Services\\VehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:04:18.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InMemoryVehicleRepository..cs",
+              "DocumentMoniker": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Repositories\\InMemoryVehicleRepository..cs",
+              "RelativeDocumentMoniker": "Repositories\\InMemoryVehicleRepository..cs",
+              "ToolTip": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Repositories\\InMemoryVehicleRepository..cs*",
+              "RelativeToolTip": "Repositories\\InMemoryVehicleRepository..cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:01:33.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DefaultPropertiesDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Decorators\\DefaultPropertiesDecorator.cs",
+              "RelativeDocumentMoniker": "Decorators\\DefaultPropertiesDecorator.cs",
+              "ToolTip": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Decorators\\DefaultPropertiesDecorator.cs",
+              "RelativeToolTip": "Decorators\\DefaultPropertiesDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:00:21.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Decorators\\VehicleDecorator.cs",
+              "RelativeDocumentMoniker": "Decorators\\VehicleDecorator.cs",
+              "ToolTip": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Decorators\\VehicleDecorator.cs",
+              "RelativeToolTip": "Decorators\\VehicleDecorator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:59:41.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EscapeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Factories\\EscapeFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\EscapeFactory.cs",
+              "ToolTip": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Factories\\EscapeFactory.cs",
+              "RelativeToolTip": "Factories\\EscapeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:58:32.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExplorerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Factories\\ExplorerFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\ExplorerFactory.cs",
+              "ToolTip": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Factories\\ExplorerFactory.cs",
+              "RelativeToolTip": "Factories\\ExplorerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:57:53.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MustangFactory.cs",
+              "DocumentMoniker": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Factories\\MustangFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\MustangFactory.cs",
+              "ToolTip": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Factories\\MustangFactory.cs",
+              "RelativeToolTip": "Factories\\MustangFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:57:18.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IVehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Factories\\IVehicleFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\IVehicleFactory.cs",
+              "ToolTip": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Factories\\IVehicleFactory.cs",
+              "RelativeToolTip": "Factories\\IVehicleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:56:44.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-18T03:56:06.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Escape.cs",
+              "DocumentMoniker": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Models\\Escape.cs",
+              "RelativeDocumentMoniker": "Models\\Escape.cs",
+              "ToolTip": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Models\\Escape.cs",
+              "RelativeToolTip": "Models\\Escape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:55:17.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Explorer.cs",
+              "DocumentMoniker": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Models\\Explorer.cs",
+              "RelativeDocumentMoniker": "Models\\Explorer.cs",
+              "ToolTip": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Models\\Explorer.cs",
+              "RelativeToolTip": "Models\\Explorer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:54:25.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mustang.cs",
+              "DocumentMoniker": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Models\\Mustang.cs",
+              "RelativeDocumentMoniker": "Models\\Mustang.cs",
+              "ToolTip": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Models\\Mustang.cs",
+              "RelativeToolTip": "Models\\Mustang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:53:28.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "Models\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:52:38.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wiy98\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:50:55.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
